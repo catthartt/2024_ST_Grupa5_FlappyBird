@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Point_zone
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3566034441
+    locked: 0
+  - name: Gameplay
+    uniqueID: 4251886701
+    locked: 0
+  - name: Foreground
+    uniqueID: 3706899267
     locked: 0
